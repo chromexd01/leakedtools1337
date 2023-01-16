@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/991837424139382835/1063268502489812992/output-onlinegiftools.gif">
+</p>
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=federa1&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/1061457011893604352.png"/>
+</p>
+<p align="center">
+Currently Listening to Music
+<p align="center">
+    <a href="kekma.net">アシュリー</a>
 
-<!--
-**leakedtools1337/leakedtools1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
